@@ -22,9 +22,11 @@ After uploading the data, I needed to analyze and clean it up so that it was usa
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the analysis. 
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/nengnengfei/Data_Science_US-Accidents/blob/main/accidents_by_city.png "Accidents by City")
+![alt text](https://github.com/nengnengfei/Data_Science_US-Accidents/blob/main/occurrence_of_accidents_by_hour%20.png "Occurrence of Accidents by Hour")
+![alt text](https://github.com/nengnengfei/Data_Science_US-Accidents/blob/main/occurrence_of_accidents_by_hour_Sunday%20.png "Occurrence of Accidents by Hour on Sundays")
+![alt text](https://github.com/nengnengfei/Data_Science_US-Accidents/blob/main/occurrence_of_accidents_by_dayofweek.png "Occurrence of Accidents by Day of Week")
+![alt text](https://github.com/nengnengfei/Data_Science_US-Accidents/blob/main/accidents_HeatMap.png "Accidents HeatMap")
 
 ## Model Building 
 
